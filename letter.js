@@ -7,7 +7,7 @@ heart.addEventListener('click',function(){
      x.setAttribute("src", "qlx.mp3");
      x.setAttribute("autoplay","autoplay");
 let i =0
-let str = '新年快乐呀！羽娴<跟你说个秘密其实在我看来，你真的是个很优秀的女孩，所以希望你平时可以自信一点，虽然我不知道怎么表达我对你的感情，但我想告诉你的是在我的青春里你也是一个很惊艳的人。'
+let str = '新年快乐呀！羽娴<跟你说个秘密其实在我看来，你真的是个很优秀的女孩，所以希望你平时可以自信一点，虽然我不知道怎么表达我对你的感情，但我想告诉你的是在我的青春里你也是一个很惊艳的人。<新的一年里，祝你岁岁平，岁岁安'
 let strp = ''
 function print()
 {
